@@ -1,0 +1,6 @@
+{
+  "name": "RakshaVaani",
+  "description": "Tactical Speech Enhancement System for Defence and Low-SNR Field Environments (DRDO | SIH 2026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
